@@ -1,0 +1,22 @@
+# NCTU_dlp
+## lab1
+implement neural network by hand craft ,include feed forward and backpropagation and so on...
+## lab2
+EEG classification ,use pytorch creat simple deep neural network to predict eeg signal 
+## lab3
+Diabetic Retinopthy Detection (糖尿病所引發的視網膜病變),like lab2 ,just classify picture to 5 class
+
+## lab4
+Conditional VAE For Video Prediction,use VAE for robotic arm future movement prediction
+
+## lab5
+GANs,a simple condition Gan pratice ,generate pseodo object
+
+## lab6
+- Deep Q-learning(DQN) and Deep Determinstic Policy Gradient(DDPG),in a moon landing game enviroment, let the space ship landing security
+- A tradition cocntrol system problem and use Reinforcement learning to solve it
+
+
+
+
+
